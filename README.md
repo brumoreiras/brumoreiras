@@ -2,6 +2,6 @@
 
 
 - 🌱 Estou estudando JAVA, JavaScript, CSS, HTML e MySQL
-- 💬 Estou em busca de uma oportunidade. 
+- 💬 Em busca de uma oportunidade. 
 
 
